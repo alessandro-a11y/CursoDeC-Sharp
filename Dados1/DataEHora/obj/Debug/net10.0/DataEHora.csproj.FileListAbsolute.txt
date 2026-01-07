@@ -1,0 +1,14 @@
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\bin\Debug\net10.0\DataEHora.exe
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\bin\Debug\net10.0\DataEHora.deps.json
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\bin\Debug\net10.0\DataEHora.runtimeconfig.json
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\bin\Debug\net10.0\DataEHora.dll
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\bin\Debug\net10.0\DataEHora.pdb
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\obj\Debug\net10.0\DataEHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\obj\Debug\net10.0\DataEHora.AssemblyInfoInputs.cache
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\obj\Debug\net10.0\DataEHora.AssemblyInfo.cs
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\obj\Debug\net10.0\DataEHora.csproj.CoreCompileInputs.cache
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\obj\Debug\net10.0\DataEHora.dll
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\obj\Debug\net10.0\refint\DataEHora.dll
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\obj\Debug\net10.0\DataEHora.pdb
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\obj\Debug\net10.0\DataEHora.genruntimeconfig.cache
+C:\Users\55879\OneDrive\Desktop\Dados1\DataEHora\obj\Debug\net10.0\ref\DataEHora.dll

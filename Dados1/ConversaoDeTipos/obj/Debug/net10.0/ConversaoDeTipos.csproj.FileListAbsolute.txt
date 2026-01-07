@@ -1,0 +1,14 @@
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\bin\Debug\net10.0\ConversaoDeTipos.exe
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\bin\Debug\net10.0\ConversaoDeTipos.deps.json
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\bin\Debug\net10.0\ConversaoDeTipos.runtimeconfig.json
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\bin\Debug\net10.0\ConversaoDeTipos.dll
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\bin\Debug\net10.0\ConversaoDeTipos.pdb
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\obj\Debug\net10.0\ConversaoDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\obj\Debug\net10.0\ConversaoDeTipos.AssemblyInfoInputs.cache
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\obj\Debug\net10.0\ConversaoDeTipos.AssemblyInfo.cs
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\obj\Debug\net10.0\ConversaoDeTipos.csproj.CoreCompileInputs.cache
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\obj\Debug\net10.0\ConversaoDeTipos.dll
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\obj\Debug\net10.0\refint\ConversaoDeTipos.dll
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\obj\Debug\net10.0\ConversaoDeTipos.pdb
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\obj\Debug\net10.0\ConversaoDeTipos.genruntimeconfig.cache
+C:\Users\55879\OneDrive\Desktop\Dados1\ConversaoDeTipos\obj\Debug\net10.0\ref\ConversaoDeTipos.dll
