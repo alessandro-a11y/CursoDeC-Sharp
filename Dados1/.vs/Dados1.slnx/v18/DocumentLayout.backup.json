@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C756A40A-07EF-4331-96B6-333E052E6413}|OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\operadoresdeatribuicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C756A40A-07EF-4331-96B6-333E052E6413}|OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj|solutionrelative:operadoresdeatribuicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867417A3-9713-4EF3-BBB7-CE6FE092B623}|InterferenciaDeTipos\\InterferenciaDeTipos.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\interferenciadetipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867417A3-9713-4EF3-BBB7-CE6FE092B623}|InterferenciaDeTipos\\InterferenciaDeTipos.csproj|solutionrelative:interferenciadetipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4603E9CF-33F2-4214-8D20-0980E5A78B06}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\operadoresaritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4603E9CF-33F2-4214-8D20-0980E5A78B06}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|solutionrelative:operadoresaritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresDeAtribuicao\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresDeAtribuicao\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresDeAtribuicao\\Program.cs*",
+              "RelativeToolTip": "OperadoresDeAtribuicao\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:38:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\InterferenciaDeTipos\\Program.cs",
+              "RelativeDocumentMoniker": "InterferenciaDeTipos\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\InterferenciaDeTipos\\Program.cs*",
+              "RelativeToolTip": "InterferenciaDeTipos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:36:06.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresAritmeticos\\Program.cs",
               "RelativeDocumentMoniker": "OperadoresAritmeticos\\Program.cs",
               "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresAritmeticos\\Program.cs*",
               "RelativeToolTip": "OperadoresAritmeticos\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T12:03:48.902Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\bin\Debug\net10.0\OperadoresDeAtribuicao.exe
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\bin\Debug\net10.0\OperadoresDeAtribuicao.deps.json
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\bin\Debug\net10.0\OperadoresDeAtribuicao.runtimeconfig.json
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\bin\Debug\net10.0\OperadoresDeAtribuicao.dll
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\bin\Debug\net10.0\OperadoresDeAtribuicao.pdb
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\obj\Debug\net10.0\OperadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\obj\Debug\net10.0\OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\obj\Debug\net10.0\OperadoresDeAtribuicao.AssemblyInfo.cs
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\obj\Debug\net10.0\OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\obj\Debug\net10.0\OperadoresDeAtribuicao.sourcelink.json
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\obj\Debug\net10.0\OperadoresDeAtribuicao.dll
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\obj\Debug\net10.0\refint\OperadoresDeAtribuicao.dll
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\obj\Debug\net10.0\OperadoresDeAtribuicao.pdb
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\obj\Debug\net10.0\OperadoresDeAtribuicao.genruntimeconfig.cache
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresDeAtribuicao\obj\Debug\net10.0\ref\OperadoresDeAtribuicao.dll

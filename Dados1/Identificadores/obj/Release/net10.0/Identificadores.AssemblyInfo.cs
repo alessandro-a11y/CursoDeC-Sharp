@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Identificadores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cf4d9bad737675add7d3da248fbf41a3dbe46a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97cc294a7a0fe213c5027fc72ccb2882dc054ac2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Identificadores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Identificadores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
