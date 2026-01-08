@@ -1,0 +1,15 @@
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.exe
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.deps.json
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.dll
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.pdb
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.sourcelink.json
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.dll
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\obj\Debug\net10.0\refint\OperadoresAritmeticos.dll
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.pdb
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\OperadoresAritmeticos\obj\Debug\net10.0\ref\OperadoresAritmeticos.dll
