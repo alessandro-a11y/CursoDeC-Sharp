@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\TiposDeDados2\\TiposDeDados2.csproj",
+      "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\TiposDeDados2\\TiposDeDados2.csproj",
       "projectName": "TiposDeDados2",
-      "projectPath": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\TiposDeDados2\\TiposDeDados2.csproj",
+      "projectPath": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\TiposDeDados2\\TiposDeDados2.csproj",
       "packagesPath": "C:\\Users\\55879\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\TiposDeDados2\\obj\\",
+      "outputPath": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\TiposDeDados2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

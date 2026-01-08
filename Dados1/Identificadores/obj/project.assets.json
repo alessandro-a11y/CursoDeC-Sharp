@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\Identificadores\\Identificadores.csproj",
+      "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\Identificadores\\Identificadores.csproj",
       "projectName": "Identificadores",
-      "projectPath": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\Identificadores\\Identificadores.csproj",
+      "projectPath": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\Identificadores\\Identificadores.csproj",
       "packagesPath": "C:\\Users\\55879\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\Identificadores\\obj\\",
+      "outputPath": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\Identificadores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

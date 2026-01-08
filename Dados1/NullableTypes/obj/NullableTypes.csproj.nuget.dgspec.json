@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\NullableTypes\\NullableTypes.csproj": {}
+    "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\NullableTypes\\NullableTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\NullableTypes\\NullableTypes.csproj": {
+    "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\NullableTypes\\NullableTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\NullableTypes\\NullableTypes.csproj",
+        "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\NullableTypes\\NullableTypes.csproj",
         "projectName": "NullableTypes",
-        "projectPath": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\NullableTypes\\NullableTypes.csproj",
+        "projectPath": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\NullableTypes\\NullableTypes.csproj",
         "packagesPath": "C:\\Users\\55879\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\NullableTypes\\obj\\",
+        "outputPath": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\NullableTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

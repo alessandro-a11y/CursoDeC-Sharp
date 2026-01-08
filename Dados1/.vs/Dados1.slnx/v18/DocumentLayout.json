@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\",
+  "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFBD90AA-A28C-4C8C-8E85-7304FB7FC9CE}|ConversaoDeTipos\\ConversaoDeTipos.csproj|c:\\users\\55879\\onedrive\\desktop\\dados1\\conversaodetipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBD90AA-A28C-4C8C-8E85-7304FB7FC9CE}|ConversaoDeTipos\\ConversaoDeTipos.csproj|solutionrelative:conversaodetipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7081FABB-84A1-400F-B371-122A6AC3E5D9}|EntradaDeDados\\EntradaDeDados.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\entradadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081FABB-84A1-400F-B371-122A6AC3E5D9}|EntradaDeDados\\EntradaDeDados.csproj|solutionrelative:entradadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89945441-D504-409B-AE66-B7285F6A25B5}|Identificadores\\Identificadores.csproj|c:\\users\\55879\\onedrive\\desktop\\dados1\\identificadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89945441-D504-409B-AE66-B7285F6A25B5}|Identificadores\\Identificadores.csproj|solutionrelative:identificadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFBD90AA-A28C-4C8C-8E85-7304FB7FC9CE}|ConversaoDeTipos\\ConversaoDeTipos.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\conversaodetipos\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBD90AA-A28C-4C8C-8E85-7304FB7FC9CE}|ConversaoDeTipos\\ConversaoDeTipos.csproj|solutionrelative:conversaodetipos\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBD90AA-A28C-4C8C-8E85-7304FB7FC9CE}|ConversaoDeTipos\\ConversaoDeTipos.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\conversaodetipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBD90AA-A28C-4C8C-8E85-7304FB7FC9CE}|ConversaoDeTipos\\ConversaoDeTipos.csproj|solutionrelative:conversaodetipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,23 +27,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\Identificadores\\Program.cs",
-              "RelativeDocumentMoniker": "Identificadores\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\Identificadores\\Program.cs",
-              "RelativeToolTip": "Identificadores\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAiwE4AAAADAAAAAAAAAA==",
+              "Title": "cast.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\ConversaoDeTipos\\cast.cs",
+              "RelativeDocumentMoniker": "ConversaoDeTipos\\cast.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\ConversaoDeTipos\\cast.cs",
+              "RelativeToolTip": "ConversaoDeTipos\\cast.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T14:52:00.975Z",
+              "WhenOpened": "2026-01-07T23:22:41.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\ConversaoDeTipos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\EntradaDeDados\\Program.cs",
+              "RelativeDocumentMoniker": "EntradaDeDados\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\EntradaDeDados\\Program.cs*",
+              "RelativeToolTip": "EntradaDeDados\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T23:23:23.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\ConversaoDeTipos\\Program.cs",
               "RelativeDocumentMoniker": "ConversaoDeTipos\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\Dados1\\ConversaoDeTipos\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\ConversaoDeTipos\\Program.cs",
               "RelativeToolTip": "ConversaoDeTipos\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

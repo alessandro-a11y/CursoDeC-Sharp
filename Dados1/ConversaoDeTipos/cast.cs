@@ -11,7 +11,7 @@ namespace ConversaoDeTipos
 			Console.WriteLine(varInt);
 		}
 	}
-}*/
+}
 
 // conversão para string usando o método ToString()
 
@@ -37,3 +37,30 @@ namespace ConversaoDeTipos{
 			Console.ReadLine();
 		}
     }
+// convertendo com o metodo convert()
+using System;
+namespace ConversaoDeTipos
+{
+	internal class Program
+	{
+		static void Main(string[] args)
+		{
+			string s1 = "123";
+			string s2 = "12.45";
+			string s3 = "12.345678";
+			int valorInt = Convert.ToInt32(s1); // convertendo string para int
+            double valorDouble = Convert.ToDouble(s2); // convertendo string para double
+            decimal valorDecimal = Convert.ToDecimal(s3); // convertendo string para decimal
+            Console.WriteLine(valorInt);
+			Console.WriteLine(valorDouble);
+			Console.WriteLine(valorDecimal);
+            // agr confimar se houve conversão, usando o gettype
+            Console.WriteLine(valorInt.GetType());
+			Console.WriteLine(valorDouble.GetType());
+			Console.WriteLine(valorDecimal.GetType());
+
+
+            Console.ReadLine();
+		}
+	}
+}*/
