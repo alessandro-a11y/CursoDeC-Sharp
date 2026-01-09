@@ -9,6 +9,7 @@
   <Project Path="NullableTypes/NullableTypes.csproj" Id="0643f73e-39d0-4556-bc98-ecc6290d1d61" />
   <Project Path="OperadoresAritmeticos/OperadoresAritmeticos.csproj" Id="4603e9cf-33f2-4214-8d20-0980e5a78b06" />
   <Project Path="OperadoresDeAtribuicao/OperadoresDeAtribuicao.csproj" Id="c756a40a-07ef-4331-96b6-333e052e6413" />
+  <Project Path="OperadoresRelacionais/OperadoresRelacionais.csproj" Id="5f9af47e-dc33-4963-9d10-b199affa2181" />
   <Project Path="TiposDeDados1/TiposDeDados1.csproj" />
   <Project Path="TiposDeDados2/TiposDeDados2.csproj" Id="603a2618-f46c-40fe-830b-1ef46498fe76" />
 </Solution>
