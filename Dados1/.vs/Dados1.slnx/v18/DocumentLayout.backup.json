@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9946B4AE-70B0-42B4-A977-4F37DF247D82}|IncrementoEDecremento\\IncrementoEDecremento.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\incrementoedecremento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9946B4AE-70B0-42B4-A977-4F37DF247D82}|IncrementoEDecremento\\IncrementoEDecremento.csproj|solutionrelative:incrementoedecremento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D38308D-BF7B-45B8-9B3A-822787FD721F}|Constantes1\\Constantes1.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\constantes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D38308D-BF7B-45B8-9B3A-822787FD721F}|Constantes1\\Constantes1.csproj|solutionrelative:constantes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C756A40A-07EF-4331-96B6-333E052E6413}|OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\operadoresdeatribuicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C756A40A-07EF-4331-96B6-333E052E6413}|OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj|solutionrelative:operadoresdeatribuicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,23 +36,49 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresDeAtribuicao\\Program.cs",
-              "RelativeDocumentMoniker": "OperadoresDeAtribuicao\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresDeAtribuicao\\Program.cs*",
-              "RelativeToolTip": "OperadoresDeAtribuicao\\Program.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA0AAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\IncrementoEDecremento\\Program.cs",
+              "RelativeDocumentMoniker": "IncrementoEDecremento\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\IncrementoEDecremento\\Program.cs*",
+              "RelativeToolTip": "IncrementoEDecremento\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T13:38:23.285Z",
+              "WhenOpened": "2026-01-09T00:28:50.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\Constantes1\\Program.cs",
+              "RelativeDocumentMoniker": "Constantes1\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\Constantes1\\Program.cs",
+              "RelativeToolTip": "Constantes1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T17:27:36.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresDeAtribuicao\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresDeAtribuicao\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresDeAtribuicao\\Program.cs",
+              "RelativeToolTip": "OperadoresDeAtribuicao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:38:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\InterferenciaDeTipos\\Program.cs",
               "RelativeDocumentMoniker": "InterferenciaDeTipos\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\InterferenciaDeTipos\\Program.cs*",
-              "RelativeToolTip": "InterferenciaDeTipos\\Program.cs*",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\InterferenciaDeTipos\\Program.cs",
+              "RelativeToolTip": "InterferenciaDeTipos\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T12:36:06.671Z",
@@ -52,12 +86,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresAritmeticos\\Program.cs",
               "RelativeDocumentMoniker": "OperadoresAritmeticos\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresAritmeticos\\Program.cs*",
-              "RelativeToolTip": "OperadoresAritmeticos\\Program.cs*",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresAritmeticos\\Program.cs",
+              "RelativeToolTip": "OperadoresAritmeticos\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T12:03:48.902Z",
