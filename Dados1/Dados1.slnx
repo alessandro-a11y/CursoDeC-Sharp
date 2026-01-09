@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Constantes1/Constantes1.csproj" Id="0d38308d-bf7b-45b8-9b3a-822787fd721f" />
   <Project Path="ConversaoDeTipos/ConversaoDeTipos.csproj" Id="afbd90aa-a28c-4c8c-8e85-7304fb7fc9ce" />
   <Project Path="DataEHora/DataEHora.csproj" Id="254ba3b6-e787-4eae-a520-31c1e79d5a90" />
   <Project Path="EntradaDeDados/EntradaDeDados.csproj" Id="7081fabb-84a1-400f-b371-122a6ac3e5d9" />
