@@ -1,0 +1,15 @@
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\bin\Debug\net10.0\IncrementoEDecremento.exe
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\bin\Debug\net10.0\IncrementoEDecremento.deps.json
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\bin\Debug\net10.0\IncrementoEDecremento.runtimeconfig.json
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\bin\Debug\net10.0\IncrementoEDecremento.dll
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\bin\Debug\net10.0\IncrementoEDecremento.pdb
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\obj\Debug\net10.0\IncrementoEDecremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\obj\Debug\net10.0\IncrementoEDecremento.AssemblyInfoInputs.cache
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\obj\Debug\net10.0\IncrementoEDecremento.AssemblyInfo.cs
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\obj\Debug\net10.0\IncrementoEDecremento.csproj.CoreCompileInputs.cache
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\obj\Debug\net10.0\IncrementoEDecremento.sourcelink.json
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\obj\Debug\net10.0\IncrementoEDecremento.dll
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\obj\Debug\net10.0\refint\IncrementoEDecremento.dll
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\obj\Debug\net10.0\IncrementoEDecremento.pdb
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\obj\Debug\net10.0\IncrementoEDecremento.genruntimeconfig.cache
+C:\Users\55879\OneDrive\Desktop\CursoDeC-Sharp\Dados1\IncrementoEDecremento\obj\Debug\net10.0\ref\IncrementoEDecremento.dll
