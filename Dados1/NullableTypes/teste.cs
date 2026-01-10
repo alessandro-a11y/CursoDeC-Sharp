@@ -11,26 +11,42 @@
 //        {
 //            Console.WriteLine("A variável não possui valor atribuído.");
 //        }
+////    }
+////}
+
+//// nullable reference types
+//using System;
+//namespace NullableTypes
+//{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            string? nome = null;
+//            if (nome == null)
+//            {
+//                Console.WriteLine("A variável 'nome' é nula.");
+//            }
+//            else
+//            {
+//                Console.WriteLine($"O valor da variável 'nome' é: {nome?.ToUpper()}");
+//            }
+//        }
 //    }
 //}
 
-// nullable reference types
+// operador ternário
 using System;
-namespace NullableTypes
-{
+namespace NullableTypes{
     internal class Program
     {
         static void Main(string[] args)
         {
-            string? nome = "";
-            if (nome == null)
-            {
-                Console.WriteLine("A variável 'nome' é nula.");
-            }
-            else
-            {
-                Console.WriteLine($"O valor da variável 'nome' é: {nome?.ToUpper()}");
-            }
+            Console.WriteLine("Informe um número: \n");
+            int n = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine($"O negativo de {n} é {-n}");
+
         }
     }
 }
