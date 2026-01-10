@@ -33,20 +33,20 @@
 //            }
 //        }
 //    }
+////}
+
+//// operador ternário
+//using System;
+//namespace NullableTypes{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            Console.WriteLine("Informe um número: \n");
+//            int n = Convert.ToInt32(Console.ReadLine());
+
+//            Console.WriteLine($"O negativo de {n} é {-n}");
+
+//        }
+//    }
 //}
-
-// operador ternário
-using System;
-namespace NullableTypes{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Informe um número: \n");
-            int n = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine($"O negativo de {n} é {-n}");
-
-        }
-    }
-}
