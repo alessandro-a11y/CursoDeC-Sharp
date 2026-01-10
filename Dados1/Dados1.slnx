@@ -11,6 +11,7 @@
   <Project Path="OperadoresDeAtribuicao/OperadoresDeAtribuicao.csproj" Id="c756a40a-07ef-4331-96b6-333e052e6413" />
   <Project Path="OperadoresLogicos/OperadoresLogicos.csproj" Id="b3af2258-4396-4367-bbc9-4dcd6ee3c748" />
   <Project Path="OperadoresRelacionais/OperadoresRelacionais.csproj" Id="5f9af47e-dc33-4963-9d10-b199affa2181" />
+  <Project Path="PrecedenciaEAssociatividade/PrecedenciaEAssociatividade.csproj" Id="74972194-b1a5-42d4-b5f8-eeedfd1d9214" />
   <Project Path="TiposDeDados1/TiposDeDados1.csproj" />
   <Project Path="TiposDeDados2/TiposDeDados2.csproj" Id="603a2618-f46c-40fe-830b-1ef46498fe76" />
 </Solution>
