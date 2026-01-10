@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataEHora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2106abcc816ae4b9c608d6dfac4213bb79f6fb75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84fc29837dd132377322aaef91534f9c5f581956")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataEHora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataEHora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

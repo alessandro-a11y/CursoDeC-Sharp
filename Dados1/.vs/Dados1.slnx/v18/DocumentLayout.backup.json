@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3AF2258-4396-4367-BBC9-4DCD6EE3C748}|OperadoresLogicos\\OperadoresLogicos.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\operadoreslogicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AF2258-4396-4367-BBC9-4DCD6EE3C748}|OperadoresLogicos\\OperadoresLogicos.csproj|solutionrelative:operadoreslogicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F9AF47E-DC33-4963-9D10-B199AFFA2181}|OperadoresRelacionais\\OperadoresRelacionais.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\operadoresrelacionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F9AF47E-DC33-4963-9D10-B199AFFA2181}|OperadoresRelacionais\\OperadoresRelacionais.csproj|solutionrelative:operadoresrelacionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,18 +48,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresLogicos\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresLogicos\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresLogicos\\Program.cs",
+              "RelativeToolTip": "OperadoresLogicos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T23:53:33.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresRelacionais\\Program.cs",
               "RelativeDocumentMoniker": "OperadoresRelacionais\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresRelacionais\\Program.cs*",
-              "RelativeToolTip": "OperadoresRelacionais\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBEAAABPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresRelacionais\\Program.cs",
+              "RelativeToolTip": "OperadoresRelacionais\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T23:28:19.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\EntradaDeDados\\Program.cs",
               "RelativeDocumentMoniker": "EntradaDeDados\\Program.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\IncrementoEDecremento\\Program.cs",
               "RelativeDocumentMoniker": "IncrementoEDecremento\\Program.cs",
@@ -81,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\Constantes1\\Program.cs",
               "RelativeDocumentMoniker": "Constantes1\\Program.cs",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresDeAtribuicao\\Program.cs",
               "RelativeDocumentMoniker": "OperadoresDeAtribuicao\\Program.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\InterferenciaDeTipos\\Program.cs",
               "RelativeDocumentMoniker": "InterferenciaDeTipos\\Program.cs",
@@ -120,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresAritmeticos\\Program.cs",
               "RelativeDocumentMoniker": "OperadoresAritmeticos\\Program.cs",
