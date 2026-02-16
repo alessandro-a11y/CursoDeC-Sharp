@@ -13,4 +13,5 @@
   <Project Path="ListEArrayList/ListEArrayList.csproj" Id="16344153-5e9b-4cd2-9489-728baa6f9052" />
   <Project Path="ListMetodoFiind/ListMetodoFiind.csproj" Id="4e3f5715-1760-4bfd-88cc-64d577fc7572" />
   <Project Path="ModificadorParams/ModificadorParams.csproj" Id="266f29cc-7815-4395-9ce8-b8c9cb05f13d" />
+  <Project Path="Random/Random.csproj" Id="c5b4a643-0a77-413e-a2bb-1c7dc338fb34" />
 </Solution>
