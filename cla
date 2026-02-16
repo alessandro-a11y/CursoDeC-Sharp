@@ -1,0 +1,125 @@
+[33mf48a0b7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: commit: chore: aplica gitignore corretamente
+[33m7d8bb73[m HEAD@{1}: commit: Update .gitignore
+[33m0b907fb[m HEAD@{2}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33mbb5ce28[m HEAD@{3}: commit: fix: converte submodules para diretórios normais
+[33m18651e2[m HEAD@{4}: commit: fix: remove submodules e adiciona como pastas normais
+[33md9b7a9b[m HEAD@{5}: commit: chore: adiciona módulos de estudo ao Curso-CSharp
+[33mcc7b09a[m HEAD@{6}: pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+[33m3b3466b[m HEAD@{7}: commit: Update IDE layout, build artifacts, and Program.cs
+[33m14c366e[m HEAD@{8}: commit: Update .futdcache.v2
+[33m7c9f643[m HEAD@{9}: commit: Update .dtbcache.v2
+[33m39a1d9c[m HEAD@{10}: commit: Update .gitignore
+[33m4d02a60[m HEAD@{11}: commit: Add Exercicios project and comment out OperadorTernario code
+[33maf7522e[m HEAD@{12}: commit: Update Program.cs
+[33m0baa0dc[m HEAD@{13}: commit: Add operador_ternario1 example and comment out Program.cs
+[33ma04ef15[m HEAD@{14}: commit: Add OperadorTernario project with temperature check
+[33m2145dee[m HEAD@{15}: pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+[33m2354215[m HEAD@{16}: commit: Update .dtbcache.v2
+[33m437a640[m HEAD@{17}: commit: Add .editorconfig and .gitignore, update build outputs
+[33md28dece[m HEAD@{18}: commit: Update teste.cs
+[33m6d2745b[m HEAD@{19}: commit: Update NullableTypes.dll
+[33m7616440[m HEAD@{20}: commit: Update NullableTypes.dll
+[33ma79313e[m HEAD@{21}: commit: Update NullableTypes.sourcelink.json
+[33maef09c4[m HEAD@{22}: commit: Update NullableTypes.pdb
+[33m6270602[m HEAD@{23}: commit: Update NullableTypes.dll
+[33mf3f2ec8[m HEAD@{24}: commit: Update NullableTypes.AssemblyInfoInputs.cache
+[33mb16747b[m HEAD@{25}: commit: Update NullableTypes.AssemblyInfo.cs
+[33m63de495[m HEAD@{26}: commit: Update apphost.exe
+[33m6824935[m HEAD@{27}: commit: Update NullableTypes.pdb
+[33m7d556f6[m HEAD@{28}: commit: Update NullableTypes.exe
+[33m2ae9579[m HEAD@{29}: commit: Update NullableTypes.dll
+[33m54a474f[m HEAD@{30}: commit: Update DocumentLayout.json
+[33m59c59a7[m HEAD@{31}: commit: Update DocumentLayout.backup.json
+[33m066e1bf[m HEAD@{32}: commit: Update .suo
+[33m56151a0[m HEAD@{33}: commit: Add PrecedenciaEAssociatividade project and update NullableTypes logic
+[33mf751790[m HEAD@{34}: commit: Update TiposDeDados2.AssemblyInfoInputs.cache
+[33mca46009[m HEAD@{35}: commit: Update TiposDeDados2.AssemblyInfo.cs
+[33m0eebedf[m HEAD@{36}: commit: Update TiposDeDados1.AssemblyInfoInputs.cache
+[33m2384a26[m HEAD@{37}: commit: Update TiposDeDados1.AssemblyInfo.cs
+[33m0849b15[m HEAD@{38}: commit: Create Program.cs
+[33m16ede1d[m HEAD@{39}: commit: Create PrecedenciaEAssociatividade.csproj
+[33m148bb4e[m HEAD@{40}: commit: Create PrecedenciaEAssociatividade.GlobalUsings.g.cs
+[33m3e91a1c[m HEAD@{41}: commit: Create PrecedenciaEAssociatividade.GeneratedMSBuildEditorConfig.editorconfig
+[33m0c6fca6[m HEAD@{42}: commit: Create PrecedenciaEAssociatividade.AssemblyInfoInputs.cache
+[33m2966a3b[m HEAD@{43}: commit: Create PrecedenciaEAssociatividade.AssemblyInfo.cs
+[33m05a52a4[m HEAD@{44}: commit: Create .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
+[33m13313f9[m HEAD@{45}: commit: Create project.nuget.cache
+[33mc650f97[m HEAD@{46}: commit: Create project.assets.json
+[33m9a9cdf7[m HEAD@{47}: commit: Create PrecedenciaEAssociatividade.csproj.nuget.g.targets
+[33mf87bcda[m HEAD@{48}: commit: Create PrecedenciaEAssociatividade.csproj.nuget.g.props
+[33mbb28f33[m HEAD@{49}: commit: Create PrecedenciaEAssociatividade.csproj.nuget.dgspec.json
+[33m890f829[m HEAD@{50}: commit: Create PrecedenciaEAssociatividade.GlobalUsings.g.cs
+[33m54dcdaf[m HEAD@{51}: commit: Create PrecedenciaEAssociatividade.GeneratedMSBuildEditorConfig.editorconfig
+[33mc814515[m HEAD@{52}: commit: Create PrecedenciaEAssociatividade.assets.cache
+[33m80518aa[m HEAD@{53}: commit: Create PrecedenciaEAssociatividade.AssemblyInfoInputs.cache
+[33m8d2c29a[m HEAD@{54}: commit: Create PrecedenciaEAssociatividade.AssemblyInfo.cs
+[33m78d71d7[m HEAD@{55}: commit: Create .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
+[33md5f16af[m HEAD@{56}: commit: Update OperadoresRelacionais.AssemblyInfoInputs.cache
+[33m4a983b2[m HEAD@{57}: commit: Update OperadoresRelacionais.AssemblyInfo.cs
+[33m46f0115[m HEAD@{58}: commit: Update OperadoresLogicos.AssemblyInfoInputs.cache
+[33maad8092[m HEAD@{59}: commit: Update OperadoresLogicos.AssemblyInfo.cs
+[33m0d751a5[m HEAD@{60}: commit: Update OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+[33m04b8c8b[m HEAD@{61}: commit: Update OperadoresDeAtribuicao.AssemblyInfo.cs
+[33m8898593[m HEAD@{62}: commit: Update OperadoresAritmeticos.AssemblyInfoInputs.cache
+[33m325c802[m HEAD@{63}: commit: Update OperadoresAritmeticos.AssemblyInfo.cs
+[33me1b412d[m HEAD@{64}: commit: Update NullableTypes.AssemblyInfoInputs.cache
+[33mb8c3f29[m HEAD@{65}: commit: Update NullableTypes.AssemblyInfo.cs
+[33m3acece4[m HEAD@{66}: commit: Update InterferenciaDeTipos.AssemblyInfoInputs.cache
+[33mcd49f99[m HEAD@{67}: commit: Update InterferenciaDeTipos.AssemblyInfo.cs
+[33m7e607da[m HEAD@{68}: commit: Update IncrementoEDecremento.AssemblyInfoInputs.cache
+[33ma77ed42[m HEAD@{69}: commit: Update IncrementoEDecremento.AssemblyInfo.cs
+[33mee8c7c2[m HEAD@{70}: commit: Update Identificadores.AssemblyInfoInputs.cache
+[33mfbe0b8f[m HEAD@{71}: commit: Update Identificadores.AssemblyInfo.cs
+[33m1b502e3[m HEAD@{72}: commit: Update EntradaDeDados.AssemblyInfoInputs.cache
+[33m55bc8b6[m HEAD@{73}: commit: Update EntradaDeDados.AssemblyInfo.cs
+[33m3ec80bc[m HEAD@{74}: commit: Update DataEHora.AssemblyInfoInputs.cache
+[33m567baa2[m HEAD@{75}: commit: Update DataEHora.AssemblyInfo.cs
+[33m20f3266[m HEAD@{76}: commit: Update ConversaoDeTipos.AssemblyInfoInputs.cache
+[33mcc60687[m HEAD@{77}: commit: Update ConversaoDeTipos.AssemblyInfo.cs
+[33m132e90b[m HEAD@{78}: commit: Update Constantes1.AssemblyInfoInputs.cache
+[33m09c475c[m HEAD@{79}: commit: Update Constantes1.AssemblyInfo.cs
+[33m5972c34[m HEAD@{80}: commit: Add PrecedenciaEAssociatividade project
+[33m770fa1b[m HEAD@{81}: commit: Add OperadoresLogicos project to solution
+[33mc55640c[m HEAD@{82}: commit: Update ConversaoDeTipos.AssemblyInfo.cs
+[33mc33f186[m HEAD@{83}: commit: Update ConversaoDeTipos.AssemblyInfoInputs.cache
+[33mdf991bc[m HEAD@{84}: commit: Update .suo
+[33m6e96ba8[m HEAD@{85}: commit: Create OperadoresLogicos.csproj.CoreCompileInputs.cache
+[33m343961b[m HEAD@{86}: commit: Update TiposDeDados2.AssemblyInfo.cs
+[33m8c6d2f1[m HEAD@{87}: commit: Update TiposDeDados2.AssemblyInfoInputs.cache
+[33m425c431[m HEAD@{88}: commit: Create OperadoresLogicos.csproj.FileListAbsolute.txt
+[33mc61987d[m HEAD@{89}: commit: Create OperadoresLogicos.genruntimeconfig.cache
+[33m7fc2c12[m HEAD@{90}: commit: Create OperadoresLogicos.sourcelink.json
+[33m3067149[m HEAD@{91}: commit: Update Program.cs
+[33m28c8a11[m HEAD@{92}: commit: Update Program.cs
+[33m84fc298[m HEAD@{93}: commit: Add build output for OperadoresLogicos project
+[33m4d85b06[m HEAD@{94}: commit: Create OperadoresLogicos.csproj.nuget.g.targets
+[33m0047f49[m HEAD@{95}: commit: Create project.assets.json
+[33m60be4f2[m HEAD@{96}: commit: Create project.nuget.cache
+[33m0b74d80[m HEAD@{97}: commit: Create .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
+[33m2a1f653[m HEAD@{98}: commit: Create OperadoresLogicos.AssemblyInfo.cs
+[33m01db381[m HEAD@{99}: commit: Create OperadoresLogicos.AssemblyInfoInputs.cache
+[33m2196c79[m HEAD@{100}: commit: Create OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+[33mfd78159[m HEAD@{101}: commit: Create OperadoresLogicos.GlobalUsings.g.cs
+[33mafad14f[m HEAD@{102}: commit: Create OperadoresLogicos.csproj
+[33m0212df2[m HEAD@{103}: commit: Create Program.cs
+[33m73a1401[m HEAD@{104}: commit: Add OperadoresRelacionais project to solution
+[33m2106abc[m HEAD@{105}: commit: Refactor EntradaDeDados and IncrementoEDecremento examples
+[33m034f74e[m HEAD@{106}: commit: Update Program.cs
+[33m8f3c8df[m HEAD@{107}: commit: Refactor increment/decrement logic in Program.cs
+[33mb185425[m HEAD@{108}: commit: Update workspace document layout and build files
+[33me5f9488[m HEAD@{109}: commit: Add IncrementoEDecremento project
+[33mac62516[m HEAD@{110}: commit: Add Constantes1 project with example of constants
+[33ma21543f[m HEAD@{111}: commit: Replace int assignment examples with string concatenation
+[33m1001483[m HEAD@{112}: commit: Add OperadoresDeAtribuicao project to solution
+[33m97cc294[m HEAD@{113}: commit: Add InterferenciaDeTipos project
+[33mcb47267[m HEAD@{114}: commit: Add OperadoresAritmeticos project with arithmetic examples
+[33m4cf4d9b[m HEAD@{115}: commit: Add EntradaDeDados project and update type conversion examples
+[33m021936b[m HEAD@{116}: commit: Add user input example to Program.cs
+[33m5c3cf12[m HEAD@{117}: commit: Atualização de código
+[33med91440[m HEAD@{118}: commit: .
+[33m90e6b90[m HEAD@{119}: commit: Create EntradaDeDados.csproj
+[33med7d4c1[m HEAD@{120}: commit: update
+[33m563f49c[m HEAD@{121}: commit: Update .gitignore
+[33m7d7896e[m HEAD@{122}: commit: update de estudos
+[33m3c81906[m HEAD@{123}: commit: Conteúdos que aprendi até agora
+[33m2a7e753[m HEAD@{124}: commit (initial): Initial commit
