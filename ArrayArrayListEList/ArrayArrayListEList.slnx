@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="ArrayArrayListEList/Array.csproj" />
+  <Project Path="ArraysList/ArraysList.csproj" Id="45867f57-ef85-43e0-860b-d17e2d8bf158" />
+  <Project Path="ArraysMultimensionais/ArraysMultimensionais.csproj" Id="22317324-f63f-4e93-9251-7497d5bce3b6" />
+  <Project Path="ClasseArray/ClasseArray.csproj" Id="45a7ed31-1232-4f07-bb47-e65429fa8be6" />
+  <Project Path="ConsoleApp1/Colecao.csproj" Id="9e83e992-83e1-4972-9df7-bc5eaace1905" />
+  <Project Path="Exercicio/Exercicio.csproj" Id="5d8f5c74-9d0f-4929-b393-4cd1d89cfc49" />
+  <Project Path="IEnumerable/IEnumerable.csproj" Id="216f2758-19f5-47e5-a33e-23cbb0fd0247" />
+  <Project Path="ListEArrayList/ListEArrayList.csproj" Id="16344153-5e9b-4cd2-9489-728baa6f9052" />
+  <Project Path="ListMetodoFiind/ListMetodoFiind.csproj" Id="4e3f5715-1760-4bfd-88cc-64d577fc7572" />
+  <Project Path="ModificadorParams/ModificadorParams.csproj" Id="266f29cc-7815-4395-9ce8-b8c9cb05f13d" />
+</Solution>
