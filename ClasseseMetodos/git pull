@@ -1,0 +1,461 @@
+[33mcommit 30d93146201e42c8c62970d3654ede2f490071e4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:19:40 2026 -0300
+
+    Update .dtbcache.v2
+
+[33mcommit f03681443f4c181d17d14e6af7159b97f3da3ae3[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:19:35 2026 -0300
+
+    Update .suo
+
+[33mcommit 6960f2117f93bc7faaae225f377316f72e84437c[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:19:13 2026 -0300
+
+    Update DocumentLayout.backup.json
+
+[33mcommit e32c4de41021ca9c6161c727de816ff1bc65cdec[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:19:10 2026 -0300
+
+    Update DocumentLayout.json
+
+[33mcommit 044184386825f251587e6193b3f59207d18aa271[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:19:01 2026 -0300
+
+    Update Program.cs
+
+[33mcommit fd0e3638a105f12d92334cc0d0fd4c258c06b764[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:18:57 2026 -0300
+
+    Update ClasseeAlocacaoDeMemoria.csproj.nuget.dgspec.json
+
+[33mcommit 9292d562a8102eb7cb20aef51f91197e9d5fc679[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:18:44 2026 -0300
+
+    Update ClasseeAlocacaoDeMemoria.AssemblyInfo.cs
+
+[33mcommit 8e8cebe4932246413e9efb102135cd11b47058b5[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:18:39 2026 -0300
+
+    Update ClasseeAlocacaoDeMemoria.AssemblyInfoInputs.cache
+
+[33mcommit 753f12b9ec18ea2fff3f83379c45989b28554e55[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:18:35 2026 -0300
+
+    Update ClasseeAlocacaoDeMemoria.assets.cache
+
+[33mcommit 4f97ca20b560a1a3889488a4d399c7d4b6dcd3d3[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:18:28 2026 -0300
+
+    Update ClasseeAlocacaoDeMemoria.GeneratedMSBuildEditorConfig.editorconfig
+
+[33mcommit d45f5359c68be4c1d05780c1a8621ab2de115192[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:18:24 2026 -0300
+
+    Update project.nuget.cache
+
+[33mcommit 1c646b38286e323a835f58d368fcdb19d9a8d1fd[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:18:20 2026 -0300
+
+    Update ClassesEmetodos.slnx
+
+[33mcommit e9fe7a0648b7b041a234a8618afe88f1de58aa14[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:18:17 2026 -0300
+
+    Update ClassesEmetodos.csproj.nuget.dgspec.json
+
+[33mcommit 9788d3d752e0aa7bc5a8248d983bf9438b1c4124[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:18:14 2026 -0300
+
+    Update ClassesEmetodos.AssemblyInfo.cs
+
+[33mcommit b8cdc6632855411a3b504d1a8e84b49e8c78a6ba[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:18:10 2026 -0300
+
+    Update ClassesEmetodos.AssemblyInfoInputs.cache
+
+[33mcommit 0b2eb487784ceb42b8229fd91e62deb82ba9387b[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:18:07 2026 -0300
+
+    Update ClassesEmetodos.assets.cache
+
+[33mcommit 5d82393e2af6a03f92c032c9a5a27deb4aa37e36[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:18:02 2026 -0300
+
+    Update ClassesEmetodos.GeneratedMSBuildEditorConfig.editorconfig
+
+[33mcommit e0d30574d03a1a0da4a2f1e7dff8291fc35af2f9[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:17:59 2026 -0300
+
+    Update project.nuget.cache
+
+[33mcommit fd6e42cc45f248d683e15515f8b5e3285b8b3499[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:17:53 2026 -0300
+
+    Update Construtor1e2.csproj.nuget.dgspec.json
+
+[33mcommit 47f85423e646169fa06fb5d60defed95e291f929[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:17:42 2026 -0300
+
+    Update Construtor1e2.AssemblyInfo.cs
+
+[33mcommit b05558919ffcc904b4b3c051e798c65f65c57161[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:16:31 2026 -0300
+
+    Update Construtor1e2.AssemblyInfoInputs.cache
+
+[33mcommit ae271cc5d118a2b5c8760ca6f5dac7acda329103[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:16:28 2026 -0300
+
+    Update Construtor1e2.assets.cache
+
+[33mcommit 27266b2c8ae1af23c22457c5917956290b859bf6[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:16:25 2026 -0300
+
+    Update Construtor1e2.GeneratedMSBuildEditorConfig.editorconfig
+
+[33mcommit c93afbc918be104ae2a9b4fe3674f070c139df70[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:16:23 2026 -0300
+
+    Update project.nuget.cache
+
+[33mcommit 467057f669486612409c9ad8085d63c65b8dd43f[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:16:14 2026 -0300
+
+    Update Metodos.AssemblyInfo.cs
+
+[33mcommit e60818857a7bc78f0384bccfe525cbec0f1e41d7[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:16:11 2026 -0300
+
+    Update Metodos.AssemblyInfoInputs.cache
+
+[33mcommit bdb81e07aedc40eb4235ce7f51b5c03054910a9a[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:56 2026 -0300
+
+    Update Metodos.assets.cache
+
+[33mcommit 43fb7f645c275f2a3411cce48e8bdda2fd6ab002[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:53 2026 -0300
+
+    Update Metodos.GeneratedMSBuildEditorConfig.editorconfig
+
+[33mcommit d43e77da32bead805275593cb2b6e13e2e21ecf6[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:50 2026 -0300
+
+    Update Metodos.csproj.nuget.dgspec.json
+
+[33mcommit c5a2491b94f077f051d590c8649e87972a7a20a6[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:47 2026 -0300
+
+    Update project.nuget.cache
+
+[33mcommit 85312a51b3703041e926c515fbcc03894bb5c88c[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:44 2026 -0300
+
+    Update Objetos.AssemblyInfo.cs
+
+[33mcommit a4cf8495f67492e3ec188757d17ea007099129a1[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:42 2026 -0300
+
+    Update Objetos.AssemblyInfoInputs.cache
+
+[33mcommit 5803b5a125dacc5a39bbe5cb320c5afd14553158[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:39 2026 -0300
+
+    Update Objetos.assets.cache
+
+[33mcommit 8e036d2839f04e20ab4a050685f4a5d5a379ea46[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:37 2026 -0300
+
+    Update Objetos.GeneratedMSBuildEditorConfig.editorconfig
+
+[33mcommit a9d17d8b5fd17a0957cc385d49625954b6fd7c67[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:35 2026 -0300
+
+    Update Objetos.csproj.nuget.dgspec.json
+
+[33mcommit 88f8c6b1d4bed9423b2dcac6d64d77a76c1c954a[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:32 2026 -0300
+
+    Update project.nuget.cache
+
+[33mcommit bcb05286dc15691cac57d042bc8c39bfc75fc3cd[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:30 2026 -0300
+
+    Create ParametrosOpcionais.csproj
+
+[33mcommit 79329385a10964828fa65d31fde216bb66182998[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:27 2026 -0300
+
+    Create Program.cs
+
+[33mcommit bf59911ff20b13d60dd8446deede3b30269a7fbf[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:23 2026 -0300
+
+    Update ProjetoCarroConsole.dll
+
+[33mcommit f291ea1d24ee245512742852267df9b7ad0f67b4[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:21 2026 -0300
+
+    Update ProjetoCarroConsole.exe
+
+[33mcommit e92d9cb908b5fd0cd6a9533d62a89a7a9ca289dc[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:14 2026 -0300
+
+    Update ProjetoCarroConsole.pdb
+
+[33mcommit 4e4c7cba403384d2a6a9e14f599f74ed0e683245[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:15:08 2026 -0300
+
+    Update apphost.exe
+
+[33mcommit c49ea9e59117310f5be10fa9961a1d243bed7be8[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:14:39 2026 -0300
+
+    Update ProjetoCarroConsole.AssemblyInfo.cs
+
+[33mcommit a4e69a0f9402a03d23b0b2d97a7bc22ef6545b53[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:14:22 2026 -0300
+
+    Update ProjetoCarroConsole.AssemblyInfoInputs.cache
+
+[33mcommit cbac9eae0b2eefddd1679e3bdddd3101bc592da6[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:12:54 2026 -0300
+
+    Update ProjetoCarroConsole.assets.cache
+
+[33mcommit 74a9378c0342ccb42d544ddaf653b1a13fe0c9e7[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:08:34 2026 -0300
+
+    Update ProjetoCarroConsole.dll
+
+[33mcommit 3dc6d630d42970f47995a25222dabb5b87a57658[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:08:32 2026 -0300
+
+    Update ProjetoCarroConsole.GeneratedMSBuildEditorConfig.editorconfig
+
+[33mcommit b96550da5ee0686e8a646b1662c19145613acbc9[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:08:29 2026 -0300
+
+    Update ProjetoCarroConsole.genruntimeconfig.cache
+
+[33mcommit d3ea7f7c09a6a0dafc025b81879c3fe38a54abef[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:08:26 2026 -0300
+
+    Update ProjetoCarroConsole.pdb
+
+[33mcommit e53dd31e942b304e9a7209838b66edc5f0cf7997[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:08:22 2026 -0300
+
+    Update ProjetoCarroConsole.sourcelink.json
+
+[33mcommit 1b4e13e355c853946fe1ab2bdcdcfaa913bff9b7[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:08:19 2026 -0300
+
+    Update ProjetoCarroConsole.dll
+
+[33mcommit 849292081de75215bf5eba4351552c38a497df19[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:08:17 2026 -0300
+
+    Update ProjetoCarroConsole.dll
+
+[33mcommit 33f9638a910b30c7e208df26634883d8235ba7bb[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:08:14 2026 -0300
+
+    Update project.nuget.cache
+
+[33mcommit 9c4b52f46eb70f3b2d301c2a001c02dd60d89022[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 22:08:08 2026 -0300
+
+    Update ProjetoCarroConsole.csproj.nuget.dgspec.json
+
+[33mcommit b43b6fcfcc09589dfaa4587c5c723ddd110b8de4[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:05:32 2026 -0300
+
+    Update .futdcache.v2
+
+[33mcommit 5387b90c25f4fa8ada53621be45231c47d96670e[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:05:09 2026 -0300
+
+    Update .suo
+
+[33mcommit 661ffe599942c9b45ac78393573053d28e209109[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:05:04 2026 -0300
+
+    Update DocumentLayout.backup.json
+
+[33mcommit 71572c94399d8d1f7ed0a6fc45cc4da9a6abd0ca[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:04:55 2026 -0300
+
+    Update DocumentLayout.json
+
+[33mcommit 44c56c43a7fe192dfdce216ac7543b258085e44d[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:04:50 2026 -0300
+
+    Update classesemetodos.metadata.v10.bin
+
+[33mcommit 6cae3186b10d8c66a2832d5c1c53e8dbe7d5ea55[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:04:39 2026 -0300
+
+    Update classesemetodos.projects.v10.bin
+
+[33mcommit ed1f23052091122b2b0dedc74dd0da810e2a77d8[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:04:36 2026 -0300
+
+    Update classesemetodos.strings.v10.bin
+
+[33mcommit cf8eff5768c73b55b511ac54b5ce7af048804133[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:03:56 2026 -0300
+
+    Update ClassesEmetodos.slnx
+
+[33mcommit ecb9fea59dcb8983f91a600891c9f646b2f43160[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:03:52 2026 -0300
+
+    Update ProjetoCarroConsole.dll
+
+[33mcommit 4b870ab1a29deda4802ddbf8276a7217c461c644[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:03:48 2026 -0300
+
+    Update ProjetoCarroConsole.exe
+
+[33mcommit 8e11a232607e1b8628acee89def584e0daa79d14[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:03:45 2026 -0300
+
+    Update ProjetoCarroConsole.pdb
+
+[33mcommit 2b0909b8e01058e3e4c40c4c04dc6d2a14cb2463[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:03:41 2026 -0300
+
+    Update ModelsCars.cs
+
+[33mcommit 5fdbf750fd096b9fb416358739eec1b492a3841d[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:03:38 2026 -0300
+
+    Update apphost.exe
+
+[33mcommit 9f652da463efffabedad3fd2d923d91970668027[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:03:36 2026 -0300
+
+    Update ProjetoCarroConsole.AssemblyInfo.cs
+
+[33mcommit 5527aad9586385d496717c7108d5cb3d5c04e2c0[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:03:33 2026 -0300
+
+    Update ProjetoCarroConsole.AssemblyInfoInputs.cache
+
+[33mcommit 53e2fb2c8aaacf49b30180fb13aee5b333c4f60c[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:03:30 2026 -0300
+
+    Update ProjetoCarroConsole.dll
+
+[33mcommit 4ebc5858052764408745b6f2aed356df6a2a4c27[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:03:25 2026 -0300
+
+    Update ProjetoCarroConsole.pdb
+
+[33mcommit e9ea917573d12668b681a649d3e6a11cb27c4164[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:03:21 2026 -0300
+
+    Update ProjetoCarroConsole.sourcelink.json
+
+[33mcommit f95ca555303eb39cbe8d2f9d2e2c2d32c167bd44[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:03:18 2026 -0300
+
+    Update ProjetoCarroConsole.dll
+
+[33mcommit f58d0bcf037063841a9b1824b4b5da401e9dce15[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Mon Jan 26 21:01:18 2026 -0300
+
+    Update ProjetoCarroConsole.dll
+
+[33mcommit aaafb5aa9c29ded03c6e158ebc33a0b6af7ca0c7[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Sun Jan 25 17:07:30 2026 -0300
+
+    Update ProjetoCarroConsole.AssemblyInfoInputs.cache
+
+[33mcommit 8cdfd62a96a3dec6413e7a6402459b61b26e2ae2[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Sun Jan 25 17:07:25 2026 -0300
+
+    Update ProjetoCarroConsole.AssemblyInfo.cs
+
+[33mcommit af713132cdf31e41584658a9958a9dcff73e1bd4[m
+Author: Alessandro Figueiredo Rodrigues <figueiredoalessandro73@gmail.com>
+Date:   Sun Jan 25 17:07:04 2026 -0300
+
+    Update Objetos.AssemblyInfoInputs.cache

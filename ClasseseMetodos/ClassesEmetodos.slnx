@@ -1,0 +1,23 @@
+<Solution>
+  <Project Path="ArgumentosNomeados/ArgumentosNomeados.csproj" Id="d56a1f7c-aaa3-4a0c-a396-55f49fc762b6" />
+  <Project Path="ClasseeAlocacaoDeMemoria/ClasseeAlocacaoDeMemoria.csproj" Id="58454cf4-6c1f-4cea-89b9-447596bd71e6" />
+  <Project Path="ClassesEmetodos/ClassesEmetodos.csproj" />
+  <Project Path="Construtor1e2/Construtor1e2.csproj" Id="c15e7b91-647f-468f-bf06-ded89026fc78" />
+  <Project Path="ConstrutorStatico/ConstrutorStatico.csproj" Id="9565330c-4047-46d5-af79-4226bda63b37" />
+  <Project Path="Enum/Enum.csproj" Id="4897418d-036e-4d59-9f55-9d5ddf09ee54" />
+  <Project Path="MetodoComReturn/MetodoComReturn.csproj" Id="f210ce9a-113b-413a-8cc0-3707572e5080" />
+  <Project Path="Metodos/Metodos.csproj" Id="3ebe4959-5294-429d-a6c1-8415b3243973" />
+  <Project Path="MetodosEstaticos/MetodosEstaticos.csproj" Id="d0917175-544a-4c55-9b7b-dfe047b2821f" />
+  <Project Path="Objetos/Objetos.csproj" Id="41332658-9a7e-4cbf-bdbf-7431ca0543a8" />
+  <Project Path="ParametrosOpcionais/ParametrosOpcionais.csproj" Id="5e82ac03-2b1e-482e-9c7e-bec9621fc290" />
+  <Project Path="PartialClass/PartialClass.csproj" Id="b3bdf156-88ab-4e9c-85b3-dfbacf3f4635" />
+  <Project Path="PassandroArgumentosporValoresERef/PassandroArgumentosporValoresERef.csproj" Id="d238e3cf-cb2c-4220-b57f-441ca9df9dd0" />
+  <Project Path="ProjetoCadastro/ProjetoCadastro.csproj" Id="cc340b67-fce2-432d-8a0d-9ac4144e7ca6" />
+  <Project Path="ProjetoCarroConsole/PersonagensDeRPG.csproj" Id="01f9ac68-182a-42f8-a019-0add7fe3e9d0" />
+  <Project Path="ProjetosClienteComStructs/ProjetosClienteComStructs.csproj" Id="5e8db71b-b96c-4ef5-b653-156545dcc5f8" />
+  <Project Path="Prorpiedades/Propriedades.csproj" Id="f03342bf-e136-46b7-8e67-4974ebd9d386" />
+  <Project Path="Sobrecargas/Sobrecargas.csproj" Id="4b8d5dd0-6eb2-45f5-9f2b-771af9eb51fb" />
+  <Project Path="Structs/Structs.csproj" Id="49005055-0656-44aa-be0d-ec4b88b3dcf6" />
+  <Project Path="TiposAnonimos/TiposAnonimos.csproj" Id="f115f7cb-b850-442d-bce7-b77e4470bb27" />
+  <Project Path="TratamentosDeErros/TratamentosDeErros.csproj" Id="d1ec98ae-bbeb-4f07-9b80-bcfd3fddfcf0" />
+</Solution>
