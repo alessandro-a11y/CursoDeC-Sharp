@@ -1,22 +1,22 @@
-﻿using System;
+﻿//using System;
 
-namespace Exercicios
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            var numero = 5;
-            Console.WriteLine(numero++);
-            numero = 1;
-            Console.WriteLine(++numero);
-            numero = 2;
-            Console.WriteLine(numero--);
-            numero = 3;
-            Console.WriteLine(--numero);
-        } 
-    }
-}
+//namespace Exercicios
+//{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            var numero = 5;
+//            Console.WriteLine(numero++);
+//            numero = 1;
+//            Console.WriteLine(++numero);
+//            numero = 2;
+//            Console.WriteLine(numero--);
+//            numero = 3;
+//            Console.WriteLine(--numero);
+//        } 
+//    }
+//}
 
 // Questão 1
 //string name = "Paulo";

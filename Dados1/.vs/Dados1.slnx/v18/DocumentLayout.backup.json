@@ -3,44 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0643F73E-39D0-4556-BC98-ECC6290D1D61}|NullableTypes\\NullableTypes.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\nullabletypes\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0643F73E-39D0-4556-BC98-ECC6290D1D61}|NullableTypes\\NullableTypes.csproj|solutionrelative:nullabletypes\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8C42163-6D8D-408E-B9C6-D09E5A03F8C9}|Exercicios\\Exercicios.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C42163-6D8D-408E-B9C6-D09E5A03F8C9}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3AF2258-4396-4367-BBC9-4DCD6EE3C748}|OperadoresLogicos\\OperadoresLogicos.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\operadoreslogicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3AF2258-4396-4367-BBC9-4DCD6EE3C748}|OperadoresLogicos\\OperadoresLogicos.csproj|solutionrelative:operadoreslogicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D3D4F60-19C2-4D7E-B4C5-74FFD864BA77}|OperadorTernario\\OperadorTernario.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\operadorternario\\operador_ternario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3D4F60-19C2-4D7E-B4C5-74FFD864BA77}|OperadorTernario\\OperadorTernario.csproj|solutionrelative:operadorternario\\operador_ternario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74972194-B1A5-42D4-B5F8-EEEDFD1D9214}|PrecedenciaEAssociatividade\\PrecedenciaEAssociatividade.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\precedenciaeassociatividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74972194-B1A5-42D4-B5F8-EEEDFD1D9214}|PrecedenciaEAssociatividade\\PrecedenciaEAssociatividade.csproj|solutionrelative:precedenciaeassociatividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D3D4F60-19C2-4D7E-B4C5-74FFD864BA77}|OperadorTernario\\OperadorTernario.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\operadorternario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3D4F60-19C2-4D7E-B4C5-74FFD864BA77}|OperadorTernario\\OperadorTernario.csproj|solutionrelative:operadorternario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F9AF47E-DC33-4963-9D10-B199AFFA2181}|OperadoresRelacionais\\OperadoresRelacionais.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\operadoresrelacionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F9AF47E-DC33-4963-9D10-B199AFFA2181}|OperadoresRelacionais\\OperadoresRelacionais.csproj|solutionrelative:operadoresrelacionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9946B4AE-70B0-42B4-A977-4F37DF247D82}|IncrementoEDecremento\\IncrementoEDecremento.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\incrementoedecremento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9946B4AE-70B0-42B4-A977-4F37DF247D82}|IncrementoEDecremento\\IncrementoEDecremento.csproj|solutionrelative:incrementoedecremento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7081FABB-84A1-400F-B371-122A6AC3E5D9}|EntradaDeDados\\EntradaDeDados.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\entradadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7081FABB-84A1-400F-B371-122A6AC3E5D9}|EntradaDeDados\\EntradaDeDados.csproj|solutionrelative:entradadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D38308D-BF7B-45B8-9B3A-822787FD721F}|Constantes1\\Constantes1.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\constantes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D38308D-BF7B-45B8-9B3A-822787FD721F}|Constantes1\\Constantes1.csproj|solutionrelative:constantes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C756A40A-07EF-4331-96B6-333E052E6413}|OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\operadoresdeatribuicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C756A40A-07EF-4331-96B6-333E052E6413}|OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj|solutionrelative:operadoresdeatribuicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{867417A3-9713-4EF3-BBB7-CE6FE092B623}|InterferenciaDeTipos\\InterferenciaDeTipos.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\interferenciadetipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{867417A3-9713-4EF3-BBB7-CE6FE092B623}|InterferenciaDeTipos\\InterferenciaDeTipos.csproj|solutionrelative:interferenciadetipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4603E9CF-33F2-4214-8D20-0980E5A78B06}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|c:\\users\\55879\\onedrive\\desktop\\cursodec-sharp\\dados1\\operadoresaritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4603E9CF-33F2-4214-8D20-0980E5A78B06}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|solutionrelative:operadoresaritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{735D6ECD-02B0-4414-9699-C74F490FEB83}|Itens de Solu\u00E7\u00E3o{735D6ECD-02B0-4414-9699-C74F490FEB83}|C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{735D6ECD-02B0-4414-9699-C74F490FEB83}|Itens de Solu\u00E7\u00E3o{735D6ECD-02B0-4414-9699-C74F490FEB83}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,131 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "teste.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\NullableTypes\\teste.cs",
-              "RelativeDocumentMoniker": "NullableTypes\\teste.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\NullableTypes\\teste.cs*",
-              "RelativeToolTip": "NullableTypes\\teste.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAcAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\Exercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\Exercicios\\Program.cs*",
+              "RelativeToolTip": "Exercicios\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T20:17:03.657Z",
+              "WhenOpened": "2026-01-10T23:16:31.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "operador_ternario1.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadorTernario\\operador_ternario1.cs",
+              "RelativeDocumentMoniker": "OperadorTernario\\operador_ternario1.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadorTernario\\operador_ternario1.cs",
+              "RelativeToolTip": "OperadorTernario\\operador_ternario1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T23:05:16.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\PrecedenciaEAssociatividade\\Program.cs",
-              "RelativeDocumentMoniker": "PrecedenciaEAssociatividade\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\PrecedenciaEAssociatividade\\Program.cs",
-              "RelativeToolTip": "PrecedenciaEAssociatividade\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T19:57:04.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresLogicos\\Program.cs",
-              "RelativeDocumentMoniker": "OperadoresLogicos\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresLogicos\\Program.cs",
-              "RelativeToolTip": "OperadoresLogicos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadorTernario\\Program.cs",
+              "RelativeDocumentMoniker": "OperadorTernario\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadorTernario\\Program.cs",
+              "RelativeToolTip": "OperadorTernario\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T23:53:33.283Z",
+              "WhenOpened": "2026-01-10T22:43:47.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresRelacionais\\Program.cs",
-              "RelativeDocumentMoniker": "OperadoresRelacionais\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresRelacionais\\Program.cs",
-              "RelativeToolTip": "OperadoresRelacionais\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T23:28:19.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\EntradaDeDados\\Program.cs",
-              "RelativeDocumentMoniker": "EntradaDeDados\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\EntradaDeDados\\Program.cs",
-              "RelativeToolTip": "EntradaDeDados\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T00:46:33.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\IncrementoEDecremento\\Program.cs",
-              "RelativeDocumentMoniker": "IncrementoEDecremento\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\IncrementoEDecremento\\Program.cs",
-              "RelativeToolTip": "IncrementoEDecremento\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T00:28:50.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\Constantes1\\Program.cs",
-              "RelativeDocumentMoniker": "Constantes1\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\Constantes1\\Program.cs",
-              "RelativeToolTip": "Constantes1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T17:27:36.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresDeAtribuicao\\Program.cs",
-              "RelativeDocumentMoniker": "OperadoresDeAtribuicao\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresDeAtribuicao\\Program.cs",
-              "RelativeToolTip": "OperadoresDeAtribuicao\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T13:38:23.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\InterferenciaDeTipos\\Program.cs",
-              "RelativeDocumentMoniker": "InterferenciaDeTipos\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\InterferenciaDeTipos\\Program.cs",
-              "RelativeToolTip": "InterferenciaDeTipos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T12:36:06.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresAritmeticos\\Program.cs",
-              "RelativeDocumentMoniker": "OperadoresAritmeticos\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\OperadoresAritmeticos\\Program.cs",
-              "RelativeToolTip": "OperadoresAritmeticos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T12:03:48.902Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\CursoDeC-Sharp\\Dados1\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-10T21:04:11.38Z",
               "EditorCaption": ""
             }
           ]
