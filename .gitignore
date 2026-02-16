@@ -20,4 +20,4 @@ obj/
 *.pdb
 *.dll
 *.cache
-*.nuget/
+*.nuget
