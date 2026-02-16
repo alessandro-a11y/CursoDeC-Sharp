@@ -21,8 +21,9 @@ namespace Indexadores
             time[8] = "São Paulo";
             time[9] = "Corinthians";
             time[10] = "Bragantino";
+            time[11] = "Guarani";
 
-            for (int j = 0; j < 10 ; j++)
+            for (int j = 0; j < 11 ; j++)
             {
                 Console.WriteLine(time[j]);
             }
