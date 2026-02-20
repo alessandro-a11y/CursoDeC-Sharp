@@ -16,8 +16,6 @@
 bin/
 obj/
 *.user
-*.suo
 *.pdb
 *.dll
-*.cache
 *.nuget/
