@@ -7,7 +7,8 @@ namespace HerancaConstrutores
     {
         static void Main(string[] args)
         {
-          Aluno aluno = new Aluno("Alessandro");
+          Aluno aluno = new Aluno();
+          Aluno aluno2 = new Aluno("João");
         }
     }
     public class Pessoa
@@ -24,11 +25,11 @@ namespace HerancaConstrutores
     // derivada
     public class Aluno : Pessoa
     {
-        public Aluno()
+        public Aluno() : base()
         {
             Console.WriteLine("Construtor da classe Aluno");
         }
-        public Aluno(string nome)
+        public Aluno(string nome) : base(nome)
         {
              Console.WriteLine("Construtor da classe Aluno com parâmetro: " + nome);
         }
