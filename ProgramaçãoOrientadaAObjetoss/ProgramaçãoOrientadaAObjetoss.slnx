@@ -1,5 +1,8 @@
 <Solution>
+  <Project Path="ExerciciosHeranca/ExerciciosHeranca.csproj" Id="77a48564-3f2b-40a3-980f-5dcc91f3d0fb" />
   <Project Path="HerancaConstrutores/HerancaConstrutores.csproj" Id="de872080-fce3-42be-bcfb-d090845fa17a" />
+  <Project Path="HerancaNew/HerancaNew.csproj" Id="f49d1781-c07a-4648-b7a3-740419f4c572" />
   <Project Path="HerancasComportamentos/HerancasComportamentos.csproj" Id="6a1b9adb-5c38-494c-8737-83eafdd5e0c9" />
+  <Project Path="HerancaVirtualOverride/HerancaVirtualOverride.csproj" Id="0173decc-15e9-4f99-8a29-a508db519f41" />
   <Project Path="ProgramaçãoOrientadaAObjetoss/ProgramaçãoOrientadaAObjetoss.csproj" />
 </Solution>
