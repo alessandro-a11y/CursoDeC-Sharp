@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace ExerciciosHeranca.Conta
+namespace ExerciciosHeranca
 {
     internal class Program
     {
@@ -17,7 +17,6 @@ namespace ExerciciosHeranca.Conta
             foreach (var conta in contas)
             {
                 Console.WriteLine($"--- {conta.GetType().Name} ---");
-                conta.NomeCliente = "Alessandro";
                 conta.DepositarValor(1000);
                 conta.Sacar(100);
                 conta.ExibirSaldo();
