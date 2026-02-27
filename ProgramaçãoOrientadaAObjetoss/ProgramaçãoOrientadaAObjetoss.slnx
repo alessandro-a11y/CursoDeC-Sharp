@@ -5,7 +5,9 @@
   <Project Path="HerancaNew/HerancaNew.csproj" Id="f49d1781-c07a-4648-b7a3-740419f4c572" />
   <Project Path="HerancasComportamentos/HerancasComportamentos.csproj" Id="6a1b9adb-5c38-494c-8737-83eafdd5e0c9" />
   <Project Path="HerancaVirtualOverride/HerancaVirtualOverride.csproj" Id="0173decc-15e9-4f99-8a29-a508db519f41" />
+  <Project Path="ModificadorAbstract/ModificadorAbstract.csproj" Id="9ec087fd-dede-4ab3-978f-0fe1b91e353d" />
   <Project Path="OperadorAs/OperadorAs.csproj" Id="b37389fa-2477-4f04-9e79-7ababd31034b" />
+  <Project Path="OperadorIs/OperadorIs.csproj" Id="b043cfb5-35c0-41f6-b5f8-06f683e74244" />
   <Project Path="ProgramaçãoOrientadaAObjetoss/ProgramaçãoOrientadaAObjetoss.csproj" />
   <Project Path="UpCasting/UpCasting.csproj" Id="2a4c3a5d-5c39-4d99-82c7-0a6c97992ecd" />
 </Solution>
