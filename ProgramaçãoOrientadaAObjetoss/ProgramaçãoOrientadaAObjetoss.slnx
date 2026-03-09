@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Agregação/Agregação.csproj" Id="de689e26-8561-4ef4-a089-c4c1e543fc8c" />
   <Project Path="ExerciciosHeranca/ExerciciosHeranca.csproj" Id="77a48564-3f2b-40a3-980f-5dcc91f3d0fb" />
   <Project Path="ExerciciosInterface/ExerciciosInterface.csproj" Id="f43ff49f-4fc5-4b27-82a1-7aff4bb3bfaa" />
   <Project Path="HerancaConstrutores/HerancaConstrutores.csproj" Id="de872080-fce3-42be-bcfb-d090845fa17a" />
