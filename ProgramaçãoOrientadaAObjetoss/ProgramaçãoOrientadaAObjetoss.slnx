@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="Agregação/Agregação.csproj" Id="de689e26-8561-4ef4-a089-c4c1e543fc8c" />
+  <Project Path="Exercicio/Exercicio.csproj" Id="e9aa45a6-d74f-4188-be56-dfcec9b6a3c6" />
+  <Project Path="Exercicio2/Exercicio2.csproj" Id="41ab3e0e-58df-4207-8900-5941e50caffb" />
   <Project Path="ExerciciosHeranca/ExerciciosHeranca.csproj" Id="77a48564-3f2b-40a3-980f-5dcc91f3d0fb" />
   <Project Path="ExerciciosInterface/ExerciciosInterface.csproj" Id="f43ff49f-4fc5-4b27-82a1-7aff4bb3bfaa" />
   <Project Path="HerancaConstrutores/HerancaConstrutores.csproj" Id="de872080-fce3-42be-bcfb-d090845fa17a" />
@@ -7,10 +9,12 @@
   <Project Path="HerancaNew/HerancaNew.csproj" Id="f49d1781-c07a-4648-b7a3-740419f4c572" />
   <Project Path="HerancasComportamentos/HerancasComportamentos.csproj" Id="6a1b9adb-5c38-494c-8737-83eafdd5e0c9" />
   <Project Path="HerancaVirtualOverride/HerancaVirtualOverride.csproj" Id="0173decc-15e9-4f99-8a29-a508db519f41" />
+  <Project Path="HerançaXComposição/HerançaXComposição.csproj" Id="84ef8502-6b48-4ce6-b911-47f3903be346" />
   <Project Path="INterfaces/INterfaces.csproj" Id="c7fa61aa-3298-4dac-8f9c-59e5fd072012" />
   <Project Path="ModificadorAbstract/ModificadorAbstract.csproj" Id="9ec087fd-dede-4ab3-978f-0fe1b91e353d" />
   <Project Path="OperadorAs/OperadorAs.csproj" Id="b37389fa-2477-4f04-9e79-7ababd31034b" />
   <Project Path="OperadorIs/OperadorIs.csproj" Id="b043cfb5-35c0-41f6-b5f8-06f683e74244" />
+  <Project Path="Polimorfismo/Polimorfismo.csproj" Id="7957b32a-0eef-4b89-aea4-ad3b6942610c" />
   <Project Path="ProgramaçãoOrientadaAObjetoss/ProgramaçãoOrientadaAObjetoss.csproj" />
   <Project Path="UpCasting/UpCasting.csproj" Id="2a4c3a5d-5c39-4d99-82c7-0a6c97992ecd" />
 </Solution>
