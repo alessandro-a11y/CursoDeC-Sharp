@@ -2,6 +2,9 @@
   <Project Path="Agregação/Agregação.csproj" Id="de689e26-8561-4ef4-a089-c4c1e543fc8c" />
   <Project Path="Exercicio/Exercicio.csproj" Id="e9aa45a6-d74f-4188-be56-dfcec9b6a3c6" />
   <Project Path="Exercicio2/Exercicio2.csproj" Id="41ab3e0e-58df-4207-8900-5941e50caffb" />
+  <Project Path="Exercicio3/Exercicio3.csproj" Id="c0c6e883-81a9-4f97-866a-5c555ce52623" />
+  <Project Path="Exercicio4/Exercicio4.csproj" Id="e5e842dc-73b9-42c8-8115-e07637e17a2f" />
+  <Project Path="Exercicio5/Exercicio5.csproj" Id="3ea27fdd-3bcb-44d3-8e2d-61fb8eed2db0" />
   <Project Path="ExerciciosHeranca/ExerciciosHeranca.csproj" Id="77a48564-3f2b-40a3-980f-5dcc91f3d0fb" />
   <Project Path="ExerciciosInterface/ExerciciosInterface.csproj" Id="f43ff49f-4fc5-4b27-82a1-7aff4bb3bfaa" />
   <Project Path="HerancaConstrutores/HerancaConstrutores.csproj" Id="de872080-fce3-42be-bcfb-d090845fa17a" />
