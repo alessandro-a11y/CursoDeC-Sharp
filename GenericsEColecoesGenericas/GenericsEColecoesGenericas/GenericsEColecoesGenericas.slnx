@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Exercicio/Exercicio.csproj" Id="ce6aaf99-18f0-49e6-87d9-6b6130ad6f0c" />
   <Project Path="GenericsEColecoesGenericas/GenericsEColecoesGenericas.csproj" />
 </Solution>
