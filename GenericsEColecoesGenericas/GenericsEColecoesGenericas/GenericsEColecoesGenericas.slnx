@@ -4,4 +4,5 @@
   <Project Path="exercicioDictionary/exercicioDictionary.csproj" Id="423b8091-adba-4828-9304-08f95cbea28a" />
   <Project Path="GenericsEColecoesGenericas/GenericsEColecoesGenericas.csproj" />
   <Project Path="GetHashCode/GetHashCode.csproj" Id="944176d1-d0ca-4e7b-8396-48bf40ca59da" />
+  <Project Path="Sorted/Sorted.csproj" Id="a15aed53-7d62-4f44-9326-b4cdc67c50f4" />
 </Solution>
