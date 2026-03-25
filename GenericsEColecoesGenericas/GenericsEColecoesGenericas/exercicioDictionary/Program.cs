@@ -6,54 +6,105 @@ namespace exercicioDictionary
     {
         static void Main(string[] args)
         {
-            // criar dicionário pra armazenar nome e nota de alunos
-            var dic3 = new Dictionary<string, double>
+            var alunos = new Dictionary<int, Aluno>()
             {
-                {"Maria", 7.0},
-                {"Eric", 8.0 },
-                {"Ana", 9.0 },
-                {"Alex", 6.0 },
-                {"Dina", 5.0 }
+                { 1, new Aluno("João", 8.5) },
+                { 2, new Aluno("Maria", 9.0) },
+                { 3, new Aluno("Pedro", 7.5) }
             };
-            // acessar e exibir nome e nota de cada aluno
-            foreach (KeyValuePair<string, double> item in dic3)
+
+            ExibirInformacoes(alunos);
+
+            // localizar e atualizar a nota do aluno com chave 2
+            do
             {
-                Console.WriteLine($"Nome: {item.Key} -- Nota: {item.Value}");
+                Console.WriteLine("\nInforme o código do Aluno a localizar (0 sai)");
+                int codigo = int.Parse(Console.ReadLine());
+
+                if (codigo == 0)
+                {
+                    break;
+                }
+                var resultado = alunos.ContainsKey(codigo);
+                if (resultado)
+                {
+                    Console.WriteLine("Informe a nova nota do aluno");
+                    double novaNota = double.Parse(Console.ReadLine());
+                    alunos[codigo].Nota = novaNota;
+                    Console.WriteLine("Nota atualizada com sucesso!");
+                    ExibirInformacoes(alunos);
+                }
+                else
+                {
+                    Console.WriteLine("Aluno não encontrado!");
+                }
+            } while (true);
+
+            // localizar e remover o aluno com chave 3
+            Console.WriteLine("\nInforme o código do Aluno a remover (0 sai)");
+            int codigoRemover = int.Parse(Console.ReadLine());
+            if (codigoRemover != 0)
+            {
+                var resultadoRemover = alunos.ContainsKey(codigoRemover);
+                if (resultadoRemover)
+                {
+                    alunos.Remove(codigoRemover);
+                    Console.WriteLine("Aluno removido com sucesso!");
+                    ExibirInformacoes(alunos);
+                }
+                else
+                {
+                    Console.WriteLine("Aluno não encontrado!");
+                }
             }
-            Console.WriteLine("\n------ Nota atualizada ------\n");
-            // localizar e atualizar a nota de um aluno específico
-            dic3["Alex"] = 7.5;
-            foreach (KeyValuePair<string, double> item1 in dic3)
+            // adicionar um novo aluno com chave 4
+            Console.WriteLine("\nInforme o código do novo Aluno (0 sai)");
+            string codigoNovo = Console.ReadLine();
+            if (codigoNovo != "0")
             {
-                Console.WriteLine($"Nome: {item1.Key} -- Nota: {item1.Value}");
+                Console.WriteLine("Informe o nome do novo Aluno");
+                string nomeNovo = Console.ReadLine();
+                Console.WriteLine("Informe a nota do novo Aluno");
+                double notaNova = double.Parse(Console.ReadLine());
+                alunos.Add(int.Parse(codigoNovo), new Aluno(nomeNovo, notaNova));
+                Console.WriteLine("Aluno adicionado com sucesso!");
+                ExibirInformacoes(alunos);
             }
-            // remover um aluno do dicionário
-            dic3.Remove("Dina");
-            Console.WriteLine("\n------ Aluno removido ------\n");
-            foreach (KeyValuePair<string, double> item2 in dic3)
+            // Ordenar os alunos por nome
+            Console.WriteLine("\nAlunos ordenados por nome");
+            var alunosOrdenados = alunos.OrderBy(a => a.Value.Nome);
+            foreach (var item1 in alunosOrdenados)
             {
-                Console.WriteLine($"Nome: {item2.Key} -- Nota: {item2.Value}");
+                Console.WriteLine($"{item1.Key} - {item1.Value.Nome} - {item1.Value.Nota} ");
             }
-            // adicionar um novo aluno ao dicionário
-            dic3.Add("Lucas", 8.5);
-            Console.WriteLine("\n------ Aluno adicionado ------\n");
-            foreach (KeyValuePair<string, double> item3 in dic3)
+            // removendo todos os alunos e notas
+            alunos.Clear();
+            Console.WriteLine("\nFim do exercício");
+
+        }
+
+        private static void ExibirInformacoes(Dictionary<int, Aluno> alunos)
+        {
+            foreach (var item in alunos)
             {
-                Console.WriteLine($"Nome: {item3.Key} -- Nota: {item3.Value}");
+                Console.WriteLine($"{item.Key} - {item.Value} - {item.Value.Nota}");
             }
-            //Ordenar os alunos por nome
-            Console.WriteLine("\n------ Alunos ordenados por nome ------\n");
-            var alunosOrdenados = new SortedDictionary<string, double>(dic3);
-            foreach (KeyValuePair<string, double> item4 in alunosOrdenados)
+        }
+
+        public class Aluno
+        {
+            public string Nome { get; set; }
+            public double Nota { get; set; }
+
+            public Aluno(string nome, double nota)
             {
-                Console.WriteLine($"Nome: {item4.Key} -- Nota: {item4.Value}");
+                Nome = nome;
+                Nota = nota;
             }
-            // remover todos os alunos do dicionário
-            dic3.Clear();
-                Console.WriteLine("\n------ Dicionário limpo ------\n");
-            foreach (KeyValuePair<string, double> item5 in dic3)
+
+            public override string ToString()
             {
-                Console.WriteLine("Tudo limpo");
+                return Nome;
             }
         }
     }
