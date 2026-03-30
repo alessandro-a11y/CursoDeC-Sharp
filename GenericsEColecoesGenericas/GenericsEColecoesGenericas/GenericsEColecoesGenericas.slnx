@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="ColecoesSet/ColecoesSet.csproj" Id="569537ff-5cdf-4358-97ac-8e7375f63e03" />
   <Project Path="Dictionary/Dictionary.csproj" Id="dde974f5-6ec0-40c0-a8b5-09e8eb12607d" />
+  <Project Path="EditordeTexto/EditordeTexto.csproj" Id="ccc4f877-ec53-4cd3-8e79-63caca9cb682" />
   <Project Path="Exercicio/Exercicio.csproj" Id="ce6aaf99-18f0-49e6-87d9-6b6130ad6f0c" />
   <Project Path="exercicioDictionary/exercicioDictionary.csproj" Id="423b8091-adba-4828-9304-08f95cbea28a" />
   <Project Path="GenericsEColecoesGenericas/GenericsEColecoesGenericas.csproj" />
@@ -8,4 +9,5 @@
   <Project Path="HasHSet/HasHSet.csproj" Id="dc0da246-2701-4565-93ba-b1587f079f66" />
   <Project Path="Sorted/Sorted.csproj" Id="a15aed53-7d62-4f44-9326-b4cdc67c50f4" />
   <Project Path="SortedSet/SortedSet.csproj" Id="e07ed8da-090e-418a-a6a5-75340311c05e" />
+  <Project Path="Stackk/Stackk.csproj" Id="3b0a087a-2060-4b31-921b-ddcd128c0feb" />
 </Solution>
