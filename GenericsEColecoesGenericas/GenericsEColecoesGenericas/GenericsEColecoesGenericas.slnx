@@ -7,6 +7,7 @@
   <Project Path="GenericsEColecoesGenericas/GenericsEColecoesGenericas.csproj" />
   <Project Path="GetHashCode/GetHashCode.csproj" Id="944176d1-d0ca-4e7b-8396-48bf40ca59da" />
   <Project Path="HasHSet/HasHSet.csproj" Id="dc0da246-2701-4565-93ba-b1587f079f66" />
+  <Project Path="Queue/Queue.csproj" Id="770be27b-f950-42d4-b720-a67eee897e11" />
   <Project Path="Sorted/Sorted.csproj" Id="a15aed53-7d62-4f44-9326-b4cdc67c50f4" />
   <Project Path="SortedSet/SortedSet.csproj" Id="e07ed8da-090e-418a-a6a5-75340311c05e" />
   <Project Path="Stackk/Stackk.csproj" Id="3b0a087a-2060-4b31-921b-ddcd128c0feb" />
