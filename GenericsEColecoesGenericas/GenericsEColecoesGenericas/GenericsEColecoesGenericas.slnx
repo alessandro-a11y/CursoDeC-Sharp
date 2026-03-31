@@ -1,13 +1,20 @@
 <Solution>
+  <Project Path="Atividade 3/Atividade 3.csproj" Id="f023ba12-424e-44ce-9616-48b8f916227d" />
+  <Project Path="Atividade1/Atividade1.csproj" Id="7853bfdb-a9ff-4ec9-938f-450c7e967dcc" />
+  <Project Path="Atividade2/Atividade2.csproj" Id="1ef064f4-b0c7-48b2-b1aa-9795d3314985" />
+  <Project Path="Atividade4/Atividade4.csproj" Id="165485b9-2938-4ec9-842d-97569bc86c1b" />
   <Project Path="ColecoesSet/ColecoesSet.csproj" Id="569537ff-5cdf-4358-97ac-8e7375f63e03" />
   <Project Path="Dictionary/Dictionary.csproj" Id="dde974f5-6ec0-40c0-a8b5-09e8eb12607d" />
   <Project Path="EditordeTexto/EditordeTexto.csproj" Id="ccc4f877-ec53-4cd3-8e79-63caca9cb682" />
+  <Project Path="ExemplosPlanetas/ExemplosPlanetas.csproj" Id="25fe572a-789f-4b6f-bc5e-46b8dae91284" />
   <Project Path="Exercicio/Exercicio.csproj" Id="ce6aaf99-18f0-49e6-87d9-6b6130ad6f0c" />
   <Project Path="exercicioDictionary/exercicioDictionary.csproj" Id="423b8091-adba-4828-9304-08f95cbea28a" />
   <Project Path="GenericsEColecoesGenericas/GenericsEColecoesGenericas.csproj" />
   <Project Path="GetHashCode/GetHashCode.csproj" Id="944176d1-d0ca-4e7b-8396-48bf40ca59da" />
   <Project Path="HasHSet/HasHSet.csproj" Id="dc0da246-2701-4565-93ba-b1587f079f66" />
+  <Project Path="PedidosOnline/PedidosOnline.csproj" Id="7636d580-0d2b-45bc-88d6-59c9beac91c2" />
   <Project Path="Queue/Queue.csproj" Id="770be27b-f950-42d4-b720-a67eee897e11" />
+  <Project Path="ReadOnlyCollections/ReadOnlyCollections.csproj" Id="6bf7ea72-30c8-4788-9a99-08e1db88f1e5" />
   <Project Path="Sorted/Sorted.csproj" Id="a15aed53-7d62-4f44-9326-b4cdc67c50f4" />
   <Project Path="SortedSet/SortedSet.csproj" Id="e07ed8da-090e-418a-a6a5-75340311c05e" />
   <Project Path="Stackk/Stackk.csproj" Id="3b0a087a-2060-4b31-921b-ddcd128c0feb" />
