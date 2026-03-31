@@ -3,7 +3,7 @@
     internal class ProgramBase
     {
 
-        private static void ExibirCurso<T>(IEnumerable<T> cursos)
+        public static void ExibirCurso<T>(IEnumerable<T> cursos)
         {
             Console.WriteLine();
             foreach (var curso in cursos)
