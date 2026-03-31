@@ -19,7 +19,7 @@ namespace Queue
             string[] cursos = { "C#", "Java", "Python", "JavaScript" };
             Queue<string> filaCursos = new Queue<string>();
             Console.WriteLine();
-            Console.WriteLine("No. de Elementos na fila 1 : " + filaCursos.Tamanho());
+            Console.WriteLine("No. de Elementos na fila 1 : " + cursos.Count());
 
             ExibirCurso(cursos);
 
