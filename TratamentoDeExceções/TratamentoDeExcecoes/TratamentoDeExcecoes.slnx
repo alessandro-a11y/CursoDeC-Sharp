@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="FiltroDeExceções/FiltroDeExceções.csproj" Id="c0d3d791-876d-433a-9315-fa281007bad3" />
+  <Project Path="HttpRequestionExercicio/HttpRequestionExercicio.csproj" Id="b5ce5f97-865e-478c-8094-d794d7af6904" />
   <Project Path="LançamentosDeExececoes/LançamentosDeExececoes.csproj" Id="704c6e4e-5d21-4fa3-bcd2-260c90acd859" />
   <Project Path="TratamentoDeExcecoes/TratamentoDeExcecoes.csproj" />
 </Solution>
