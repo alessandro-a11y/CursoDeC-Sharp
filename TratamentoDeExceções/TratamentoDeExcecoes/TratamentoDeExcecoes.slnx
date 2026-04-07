@@ -1,5 +1,8 @@
 <Solution>
+  <Project Path="Atividade/Atividade.csproj" Id="4785be8f-4433-44fa-9018-61d807b6c388" />
+  <Project Path="Atividade3/Atividade3.csproj" Id="4012d4cf-b253-4475-847d-210153fe3b70" />
   <Project Path="ExececoesPersonalizadas/ExececoesPersonalizadas.csproj" Id="7d20e159-ed2f-47e2-9def-3a6baeb1fe5f" />
+  <Project Path="Exercicio1/Exercicio1.csproj" Id="dcc2ddc8-9333-4e90-8115-2a68cddd106a" />
   <Project Path="FiltroDeExceções/FiltroDeExceções.csproj" Id="c0d3d791-876d-433a-9315-fa281007bad3" />
   <Project Path="HttpRequestionExercicio/HttpRequestionExercicio.csproj" Id="b5ce5f97-865e-478c-8094-d794d7af6904" />
   <Project Path="LançamentosDeExececoes/LançamentosDeExececoes.csproj" Id="704c6e4e-5d21-4fa3-bcd2-260c90acd859" />
