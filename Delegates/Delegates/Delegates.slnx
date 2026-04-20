@@ -2,12 +2,19 @@
   <Project Path="../../../../../../OneDrive/Imágenes/Documentos/IMPORTANTES/CursoDeC-Sharp/Delegates/Delegates/Delegates/Delegates.csproj" />
   <Project Path="../../../../../../OneDrive/Imágenes/Documentos/IMPORTANTES/CursoDeC-Sharp/Delegates/Delegates/MetodosAnonimos/MetodosAnonimos.csproj" Id="89bac8e0-901c-43da-9c3f-571be18a5255" />
   <Project Path="../../../../../../OneDrive/Imágenes/Documentos/IMPORTANTES/CursoDeC-Sharp/Delegates/Delegates/MulticastDelegates/MulticastDelegates.csproj" Id="d8cc430c-67b6-452d-9b12-53bfe11a91d4" />
+  <Project Path="ConsultasLinq/ConsultasLinq.csproj" Id="82e46d74-4ea9-4ba1-8101-25232908eeaf" />
   <Project Path="DelegatesFunc/DelegatesFunc.csproj" Id="8e4be99b-bc35-4233-9089-3ce8a403363a" />
   <Project Path="Eventos/Eventos.csproj" Id="4160dbca-8e28-4ac7-927f-d3c4b7fd6d3b" />
   <Project Path="Exercicio/Exercicio.csproj" Id="e01ac4cc-7cb5-4745-b906-2f12abaa5ec4" />
   <Project Path="Exercicio2/Exercicio2.csproj" Id="b6fd1559-e794-455b-8f46-e2c375512c1f" />
   <Project Path="Lambda/Lambda.csproj" Id="110e07fb-47a3-4413-bd1b-356108f49da2" />
   <Project Path="Linq_Primeira_Parte/Linq_Primeira_Parte.csproj" Id="40c833e7-4002-42aa-a6a3-dc56fca94ee3" />
+  <Project Path="MetodoDeExtensao/MetodoDeExtensao.csproj" Id="dbce1086-0739-427d-8b1e-eadd6e5e88e6" />
   <Project Path="MetodosDeExtensao/MetodosDeExtensao.csproj" Id="27297ab8-8ee1-4dfa-8037-6f723fa189a1" />
+  <Project Path="PredicateProjeto/PredicateProjeto.csproj" Id="e65a2deb-cd3c-4574-a675-2a611b0aa472" />
+  <Project Path="ProjetoDelegateAction/ProjetoDelegateAction.csproj" Id="9a98da66-d102-4303-b3a2-2d326f4ad557" />
+  <Project Path="ProjetoFunc/ProjetoFunc.csproj" Id="49f49fd8-dc40-4aa5-a053-2ead2d0d3171" />
+  <Project Path="ProjetoLambda/ProjetoLambda.csproj" Id="f1990fbc-06bb-45a5-94a2-dc0b079e339c" />
   <Project Path="ProjetoListaComDelegates/ProjetoListaComDelegates.csproj" Id="09b814a9-33ee-48c6-b36d-2629a2b15672" />
+  <Project Path="ProjetoMulticast/ProjetoMulticast.csproj" Id="79568b63-538c-4412-afbf-056d1fcc06ec" />
 </Solution>
