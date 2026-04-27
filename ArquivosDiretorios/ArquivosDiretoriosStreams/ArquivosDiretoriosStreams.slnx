@@ -5,4 +5,15 @@
   <Project Path="../../../../../../OneDrive/Imágenes/Documentos/IMPORTANTES/CursoDeC-Sharp/ArquivosDiretorios/ArquivosDiretoriosStreams/DirectoryInfo/DirectoryInfo.csproj" Id="9de99574-805d-42b2-8c01-d3b06568df91" />
   <Project Path="../../../../../../OneDrive/Imágenes/Documentos/IMPORTANTES/CursoDeC-Sharp/ArquivosDiretorios/ArquivosDiretoriosStreams/FileInfo/FileInfo.csproj" Id="bd937d09-b8b2-4f20-8710-425c8bf3610c" />
   <Project Path="../../../../../../OneDrive/Imágenes/Documentos/IMPORTANTES/CursoDeC-Sharp/ArquivosDiretorios/ArquivosDiretoriosStreams/MetodosPath/MetodosPath.csproj" Id="06cd1793-3b1f-4a6a-bb71-8ba31a5686d7" />
+  <Project Path="BlocoUsing/BlocoUsing.csproj" Id="ad4c3cbf-f332-40fd-8a89-9f385e1897b9" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="ba5dcba5-beb7-4e35-9aa4-663d01063e54" />
+  <Project Path="Exercicio2/Exercicio2.csproj" Id="8f11a1c3-9d25-4851-86f7-6f99a5e94ecf" />
+  <Project Path="Exercicio3/Exercicio3.csproj" Id="720f8e80-0273-4a8d-95a6-b126af68e468" />
+  <Project Path="Exercicio4/Exercicio4.csproj" Id="e3e9f70b-ee7f-4ff7-9b44-6a292002a41b" />
+  <Project Path="Exercicio5/Exercicio5.csproj" Id="5a953535-1e5e-4a35-9241-1e9c43a38e0f" />
+  <Project Path="Exercicio6/Exercicio6.csproj" Id="37e6432f-e95f-4c75-a182-a1760a8e5c7c" />
+  <Project Path="Exercicio7/Exercicio7.csproj" Id="4cc8a49b-31f8-4393-baf1-556b6f4dd2a2" />
+  <Project Path="Exercicio8/Exercicio8.csproj" Id="d028d118-18c4-4c05-9315-2d8355fda4d9" />
+  <Project Path="ExercicioFinal/ExercicioFinal.csproj" Id="007d30cb-f9ca-42ff-b6e2-3813e9c4101a" />
+  <Project Path="Streams/Streams.csproj" Id="f637c804-a8f5-454c-9bb3-a5824d1e9a89" />
 </Solution>
