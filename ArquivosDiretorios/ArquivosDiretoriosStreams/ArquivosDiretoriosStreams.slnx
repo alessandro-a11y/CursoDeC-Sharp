@@ -15,6 +15,8 @@
   <Project Path="Exercicio7/Exercicio7.csproj" Id="4cc8a49b-31f8-4393-baf1-556b6f4dd2a2" />
   <Project Path="Exercicio8/Exercicio8.csproj" Id="d028d118-18c4-4c05-9315-2d8355fda4d9" />
   <Project Path="ExercicioFinal/ExercicioFinal.csproj" Id="007d30cb-f9ca-42ff-b6e2-3813e9c4101a" />
+  <Project Path="ProjetoFinal/ProjetoFinal.csproj" Id="1b4507df-2ac0-49fa-ae7d-db97a82ad079" />
+  <Project Path="SerializacaoJSON/SerializacaoJSON.csproj" Id="c32a250a-39b9-4dba-bf28-9236b4dfeb3c" />
   <Project Path="SerializaçãoDeserializaçãoEBinaria/SerializaçãoDeserializaçãoEBinaria.csproj" Id="955f649f-fa49-4dd3-82ff-e416914474e5" />
   <Project Path="SerializaçãoXML/SerializaçãoXML.csproj" Id="18e852c3-6516-42c0-af36-1c7957b9e0c7" />
   <Project Path="Streams/Streams.csproj" Id="f637c804-a8f5-454c-9bb3-a5824d1e9a89" />
