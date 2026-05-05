@@ -1,39 +1,46 @@
 ﻿using System;
-using System.Threading;
 using System.Threading.Tasks;
 
 class Program
 {
     static async Task Main(string[] args)
     {
-        TesteAsync t = new();
+        await LancaMultiplasExcecoesAsync();
+    }
+
+    static async Task LancaMultiplasExcecoesAsync()
+    {
+        Task tarefas = null;
 
         try
         {
-            t.ChamaTarefaAsync();
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine(ex.ToString());
-            Console.WriteLine("Este bloco não será executado");
-            Console.WriteLine(ex.Message);
-        }
-
-    }
-class TesteAsync
-    {
-        public Task MinhaTarefaAsync()
-        {
-            return Task.Run(() =>
+            var primeiraTask = Task.Run(async () =>
             {
-                Task.Delay(2000);
-                throw new Exception("Ocorreu um erro na tarefa!");
-
+                await Task.Delay(1000);
+                throw new IndexOutOfRangeException("Exceção da primeira task");
             });
+
+            var segundaTask = Task.Run(async () =>
+            {
+                await Task.Delay(1000);
+                throw new InvalidOperationException("Exceção da segunda task");
+            });
+
+            tarefas = Task.WhenAll(primeiraTask, segundaTask);
+
+            await tarefas;
         }
-        public async void ChamaTarefaAsync()
+        catch (Exception)
         {
-            await MinhaTarefaAsync();
+            Console.WriteLine("Ocorreram as seguintes exceções:\n");
+
+            if (tarefas?.Exception != null)
+            {
+                foreach (var ex in tarefas.Exception.InnerExceptions)
+                {
+                    Console.WriteLine($"{ex.GetType().Name} - {ex.Message}");
+                }
+            }
         }
     }
 }
