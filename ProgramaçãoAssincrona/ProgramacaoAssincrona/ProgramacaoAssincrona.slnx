@@ -1,6 +1,9 @@
 <Solution>
   <Project Path="Cancelamento/Cancelamento.csproj" Id="acbd3fe0-66d1-46b4-9110-5dae0384d6ab" />
+  <Project Path="Exercicio/Exercicio.csproj" Id="12c2e93a-0843-44a6-9737-57d8396b431b" />
   <Project Path="ProgramacaoAssincrona/ProgramacaoAssincrona.csproj" />
+  <Project Path="Semaforos/Semaforos.csproj" Id="ef8bb496-e926-415b-b667-af3633ffdfb4" />
+  <Project Path="StreamAsync/StreamAsync.csproj" Id="22490a3d-9330-46f0-8bdd-7a99197f92fb" />
   <Project Path="TratamentoDeExcecoes/TratamentoDeExcecoes.csproj" Id="bdabb129-140b-46e5-a548-14d5a91bcc1a" />
   <Project Path="ValueTaskEValueTaskDeT/ValueTaskEValueTaskDeT.csproj" Id="165d3994-82aa-4bf1-809f-589b0754717d" />
 </Solution>
