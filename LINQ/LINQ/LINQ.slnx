@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Agrupamentos/Agrupamentos.csproj" Id="2ccb2ba7-8084-4d59-8ba3-f1bb8a68d718" />
+  <Project Path="Junções/Junções.csproj" Id="abebd3c3-39cc-46de-816b-054b4c17a96d" />
   <Project Path="LINQ/LINQ.csproj" />
 </Solution>
