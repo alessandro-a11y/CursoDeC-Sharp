@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PatternsMatching/PatternsMatching.csproj" />
+  <Project Path="ProjetoComLogs/ProjetoComLogs.csproj" Id="178cfc2f-3db0-4d63-abe8-b5a705865ea1" />
+  <Project Path="RangesEIndices/RangesEIndices.csproj" Id="24c69859-2598-4126-a848-99e5ce721661" />
+  <Project Path="Records/Records.csproj" />
+</Solution>
