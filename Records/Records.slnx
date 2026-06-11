@@ -1,6 +1,9 @@
 <Solution>
   <Project Path="PatternsMatching/PatternsMatching.csproj" />
+  <Project Path="PrimaryConstructor/PrimaryConstructor.csproj" Id="32d04da2-cab6-4cf5-9eb2-431e5bde3256" />
   <Project Path="ProjetoComLogs/ProjetoComLogs.csproj" Id="178cfc2f-3db0-4d63-abe8-b5a705865ea1" />
   <Project Path="RangesEIndices/RangesEIndices.csproj" Id="24c69859-2598-4126-a848-99e5ce721661" />
   <Project Path="Records/Records.csproj" />
+  <Project Path="SimulaçãoComBuffers/SimulaçãoComBuffers.csproj" Id="e5b54648-af79-4533-aab9-36a78647a77c" />
+  <Project Path="SpanEReadOnlySpan/SpanEReadOnlySpan.csproj" Id="5c87e482-82d7-4fcd-a6eb-7ed7ab4ed88b" />
 </Solution>
